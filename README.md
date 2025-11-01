@@ -1,1 +1,1 @@
-# HackerRank-in-a-String-
+# HackerRank-in-a-String- This code checks if the string "hackerrank" appears as a subsequence in the input string `s` by iterating through `s` and matching characters in order. It returns "YES" if all characters are found sequentially, otherwise "NO".
